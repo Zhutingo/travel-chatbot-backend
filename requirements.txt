@@ -1,6 +1,4 @@
-flask
 requests
 langchain
-openai
-googlemaps
 langchain-community
+ollama
