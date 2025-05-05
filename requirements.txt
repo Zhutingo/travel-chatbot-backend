@@ -1,4 +1,6 @@
+flask
 requests
 langchain
 langchain-community
 ollama
+
